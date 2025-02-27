@@ -11,5 +11,5 @@ Download this Repo's .sh file and select it in command file selecting <br />
 then select a icon for launcher(optional) <br />
 Enjoy!!!!!!!!!!!! <br />
 <br />
-#ThankYou Tomáš Matějíček(He Coded This File for His Slax Linux Operating System)
-#warning:change photo directories in the file(not slax)
+# ThankYou Tomáš Matějíček(He Coded This File for His Slax Linux Operating System)<br />
+# warning:change photo directories in the file(not slax)
